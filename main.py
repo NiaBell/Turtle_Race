@@ -43,6 +43,7 @@ while is_race_on:
                 print(f"You've won! The winning turtle is {winning_color}")
             else:
                 print(f"You lose. The winning turtle is {winning_color}")
+                print(f"Congratulations {winning_color}")
 
 
 
